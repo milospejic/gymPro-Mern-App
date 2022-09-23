@@ -19,3 +19,8 @@ main {
 .site-container {
   min-height: 100vh;
 }
+
+.w-100{
+  height: 600px;
+  width: 500px;
+}
