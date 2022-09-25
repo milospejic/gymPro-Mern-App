@@ -23,7 +23,7 @@ function App() {
                 <Navbar.Brand>gymPro</Navbar.Brand>
               </LinkContainer>
               <Nav className="me-auto">
-                <Link to="membershipdeals" className="nav-link">
+                <Link to="/membershipdeals" className="nav-link">
                   Membership deals
                 </Link>
 

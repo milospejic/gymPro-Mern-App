@@ -23,7 +23,7 @@ const data = {
       months: 1,
       gym: true,
       spa: false,
-      image: "",
+      image: "images/bronze.jpg",
     },
     {
       name: "Silver",
@@ -32,7 +32,7 @@ const data = {
       months: 6,
       gym: true,
       spa: true,
-      image: "",
+      image: "images/silver.jpg",
     },
     {
       name: "Gold",
@@ -41,7 +41,8 @@ const data = {
       months: 12,
       gym: true,
       spa: true,
-      image: "",
+      image: "images/gold.jpg",
     },
   ],
 };
+export default data;
