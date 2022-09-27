@@ -12,10 +12,14 @@ body {
 
 
 main {
-    padding: 1rem;
+    /*padding: 1rem;*/
     flex: 1;
 }
 
+footer{
+  background-color: black;
+  color: white;
+}
 .site-container {
   min-height: 100vh;
 }
@@ -24,3 +28,19 @@ main {
   height: 600px;
   width: 500px;
 }
+
+.rowA{
+  padding-top: 50px;
+}
+.rowB{
+  padding-top: 25px;
+}
+.rowImg{
+  padding-top: 50px;
+  padding-left: 350px;
+}
+.img-thumbnail{
+  height: 400px;
+  width: 500px;
+}
+

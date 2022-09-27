@@ -10,8 +10,8 @@ export default function Membership(props) {
         src={membership.image}
         className="card-img-top"
         alt={membership.name}
-        width="500"
-        height="500"
+        width="500px"
+        height="300px"
       ></img>
       <Card.Body>
         <Card.Title>{membership.name}</Card.Title>
